@@ -1,0 +1,6 @@
+model_checkpoint_path: "train_model-21503"
+all_model_checkpoint_paths: "train_model-21103"
+all_model_checkpoint_paths: "train_model-21203"
+all_model_checkpoint_paths: "train_model-21303"
+all_model_checkpoint_paths: "train_model-21403"
+all_model_checkpoint_paths: "train_model-21503"
